@@ -1,0 +1,65 @@
+{
+  "@context": "https://iiif.io/api/presentation/3/context.json",
+  "id": "https://archie.demo/documents-d/manifest.json",
+  "type": "Manifest",
+  "label": {
+    "none": [
+      "Documents (D)"
+    ]
+  },
+  "items": [
+    {
+      "id": "https://archie.demo/documents-d/canvas/01KXZPYZYVTKDA25GTZC3AQMZ3",
+      "type": "Canvas",
+      "label": {
+        "none": [
+          "BHC006_KHAN_Liyakat20170616_D01"
+        ]
+      },
+      "width": 5184,
+      "height": 3456,
+      "items": [
+        {
+          "id": "https://archie.demo/documents-d/canvas/01KXZPYZYVTKDA25GTZC3AQMZ3/page/1",
+          "type": "AnnotationPage",
+          "items": [
+            {
+              "id": "https://archie.demo/documents-d/canvas/01KXZPYZYVTKDA25GTZC3AQMZ3/painting/1",
+              "type": "Annotation",
+              "motivation": "painting",
+              "body": {
+                "id": "https://archie.demo/documents-d/assets/01KXZPYZYVTKDA25GTZC3AQMZ3-BHC006_KHAN_Liyakat20170616_D01.JPG",
+                "type": "Image",
+                "width": 5184,
+                "height": 3456
+              },
+              "target": "https://archie.demo/documents-d/canvas/01KXZPYZYVTKDA25GTZC3AQMZ3"
+            }
+          ]
+        }
+      ],
+      "thumbnail": [
+        {
+          "id": "https://archie.demo/documents-d/assets-thumb/01KXZPYZYVTKDA25GTZC3AQMZ3-BHC006_KHAN_Liyakat20170616_D01.JPG",
+          "type": "Image"
+        }
+      ],
+      "annotations": [
+        {
+          "id": "https://archie.demo/documents-d/canvas/01KXZPYZYVTKDA25GTZC3AQMZ3/annotations.json",
+          "type": "AnnotationPage",
+          "items": []
+        }
+      ],
+      "archie:tileSource": {
+        "kind": "dzi",
+        "width": 5184,
+        "height": 3456,
+        "tileSize": 254,
+        "overlap": 1,
+        "format": "image/jpeg",
+        "filesPath": "https://archie.demo/documents-d/01KXZPYZYVTKDA25GTZC3AQMZ3-BHC006_KHAN_Liyakat20170616_D01.JPG_files"
+      }
+    }
+  ]
+}

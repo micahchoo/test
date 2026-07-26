@@ -1,0 +1,97 @@
+{
+  "@context": "https://www.w3.org/ns/anno.jsonld",
+  "id": "https://archie.demo/documents-d/annotations/history/01KYFYYBSC9R42PBEK0HY0GQVP.json",
+  "type": "AnnotationPage",
+  "items": [
+    {
+      "id": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v1",
+      "type": "Annotation",
+      "target": {
+        "source": "https://archie.demo/documents-d/canvas/01KXZPZ55DVMB2DNHCKFWKFS4A",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1182.8620676290711,916.4351838043341 1457.2893673687047,1745.8839886353621 2141.815890314758,1576.2940843018807 1925.9741938903264,885.600655743701 1346.285066350426,894.8510141618908\" /></svg>"
+        }
+      },
+      "modified": "2026-07-26T19:38:00.364Z",
+      "archie:logicalId": "01KYFYYBSC9R42PBEK0HY0GQVP",
+      "archie:rev": "01KYFYYBSCE1XQZSG1Z0KTMJWA",
+      "archie:version": 1,
+      "archie:lastEditor": "Micah",
+      "archie:parent": null
+    },
+    {
+      "id": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v2",
+      "type": "Annotation",
+      "target": {
+        "source": "https://archie.demo/documents-d/canvas/01KXZPZ55DVMB2DNHCKFWKFS4A",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1182.8620676290711,916.4351838043341 1457.2893673687047,1745.8839886353621 2141.815890314758,1576.2940843018807 1925.9741938903264,885.600655743701 1346.285066350426,894.8510141618908\" /></svg>"
+        }
+      },
+      "modified": "2026-07-26T19:38:03.810Z",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "asdasdad",
+          "purpose": "commenting"
+        }
+      ],
+      "prov:wasRevisionOf": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v1",
+      "archie:logicalId": "01KYFYYBSC9R42PBEK0HY0GQVP",
+      "archie:rev": "01KYFYYF52AWKF7PJGY3EV5389",
+      "archie:version": 2,
+      "archie:lastEditor": "Micah",
+      "archie:parent": "01KYFYYBSCE1XQZSG1Z0KTMJWA"
+    },
+    {
+      "id": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v3",
+      "type": "Annotation",
+      "target": {
+        "source": "https://archie.demo/documents-d/canvas/01KXZPZ55DVMB2DNHCKFWKFS4A",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1182.8620676290711,916.4351838043341 1457.2893673687047,1745.8839886353621 2141.815890314758,1576.2940843018807 1925.9741938903264,885.600655743701 1346.285066350426,894.8510141618908\" /></svg>"
+        }
+      },
+      "modified": "2026-07-26T19:38:03.928Z",
+      "body": [
+        {
+          "type": "TextualBody",
+          "value": "asdasdad",
+          "purpose": "commenting"
+        }
+      ],
+      "prov:wasRevisionOf": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v2",
+      "archie:logicalId": "01KYFYYBSC9R42PBEK0HY0GQVP",
+      "archie:rev": "01KYFYYF8R55P6VAVQFCSNRY56",
+      "archie:version": 3,
+      "archie:lastEditor": "Micah",
+      "archie:parent": "01KYFYYF52AWKF7PJGY3EV5389"
+    },
+    {
+      "id": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v4",
+      "type": "Annotation",
+      "target": {
+        "source": "https://archie.demo/documents-d/canvas/01KXZPZ55DVMB2DNHCKFWKFS4A",
+        "type": "SpecificResource",
+        "selector": {
+          "type": "SvgSelector",
+          "value": "<svg><polygon points=\"1182.8620676290711,916.4351838043341 1457.2893673687047,1745.8839886353621 2141.815890314758,1576.2940843018807 1925.9741938903264,885.600655743701 1346.285066350426,894.8510141618908\" /></svg>"
+        }
+      },
+      "modified": "2026-07-26T23:53:58.083Z",
+      "prov:wasRevisionOf": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v3",
+      "archie:logicalId": "01KYFYYBSC9R42PBEK0HY0GQVP",
+      "archie:rev": "01KYGDK1J3QNS76GKF8EAA1THC",
+      "archie:version": 4,
+      "archie:lastEditor": "Micah",
+      "archie:parent": "01KYFYYF8R55P6VAVQFCSNRY56",
+      "archie:deleted": true
+    }
+  ]
+}
