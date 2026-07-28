@@ -1,10 +1,10 @@
 {
   "@context": "https://www.w3.org/ns/anno.jsonld",
-  "id": "https://archie.demo/documents-d/annotations/history/01KYFYYBSC9R42PBEK0HY0GQVP.json",
+  "id": "https://micahchoo.github.io/test/documents-d/annotations/history/01KYFYYBSC9R42PBEK0HY0GQVP.json",
   "type": "AnnotationPage",
   "items": [
     {
-      "id": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v1",
+      "id": "https://micahchoo.github.io/test/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v1",
       "type": "Annotation",
       "target": {
         "source": "https://archie.demo/documents-d/canvas/01KXZPZ55DVMB2DNHCKFWKFS4A",
@@ -22,7 +22,7 @@
       "archie:parent": null
     },
     {
-      "id": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v2",
+      "id": "https://micahchoo.github.io/test/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v2",
       "type": "Annotation",
       "target": {
         "source": "https://archie.demo/documents-d/canvas/01KXZPZ55DVMB2DNHCKFWKFS4A",
@@ -40,7 +40,7 @@
           "purpose": "commenting"
         }
       ],
-      "prov:wasRevisionOf": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v1",
+      "prov:wasRevisionOf": "https://micahchoo.github.io/test/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v1",
       "archie:logicalId": "01KYFYYBSC9R42PBEK0HY0GQVP",
       "archie:rev": "01KYFYYF52AWKF7PJGY3EV5389",
       "archie:version": 2,
@@ -48,7 +48,7 @@
       "archie:parent": "01KYFYYBSCE1XQZSG1Z0KTMJWA"
     },
     {
-      "id": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v3",
+      "id": "https://micahchoo.github.io/test/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v3",
       "type": "Annotation",
       "target": {
         "source": "https://archie.demo/documents-d/canvas/01KXZPZ55DVMB2DNHCKFWKFS4A",
@@ -66,7 +66,7 @@
           "purpose": "commenting"
         }
       ],
-      "prov:wasRevisionOf": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v2",
+      "prov:wasRevisionOf": "https://micahchoo.github.io/test/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v2",
       "archie:logicalId": "01KYFYYBSC9R42PBEK0HY0GQVP",
       "archie:rev": "01KYFYYF8R55P6VAVQFCSNRY56",
       "archie:version": 3,
@@ -74,7 +74,7 @@
       "archie:parent": "01KYFYYF52AWKF7PJGY3EV5389"
     },
     {
-      "id": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v4",
+      "id": "https://micahchoo.github.io/test/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v4",
       "type": "Annotation",
       "target": {
         "source": "https://archie.demo/documents-d/canvas/01KXZPZ55DVMB2DNHCKFWKFS4A",
@@ -85,7 +85,7 @@
         }
       },
       "modified": "2026-07-26T23:53:58.083Z",
-      "prov:wasRevisionOf": "https://archie.demo/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v3",
+      "prov:wasRevisionOf": "https://micahchoo.github.io/test/documents-d/annotations/01KYFYYBSC9R42PBEK0HY0GQVP/v3",
       "archie:logicalId": "01KYFYYBSC9R42PBEK0HY0GQVP",
       "archie:rev": "01KYGDK1J3QNS76GKF8EAA1THC",
       "archie:version": 4,

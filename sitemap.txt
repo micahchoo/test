@@ -1,2 +1,2 @@
-https://archie.demo/index.html
-https://archie.demo/documents-d/index.html
+https://micahchoo.github.io/test/index.html
+https://micahchoo.github.io/test/documents-d/index.html

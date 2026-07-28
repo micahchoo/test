@@ -1,6 +1,6 @@
 {
   "@context": "https://iiif.io/api/presentation/3/context.json",
-  "id": "https://archie.demo/collection.json",
+  "id": "https://micahchoo.github.io/test/collection.json",
   "type": "Collection",
   "label": {
     "none": [
@@ -9,13 +9,19 @@
   },
   "items": [
     {
-      "id": "https://archie.demo/documents-d/manifest.json",
+      "id": "https://micahchoo.github.io/test/documents-d/manifest.json",
       "type": "Manifest",
       "label": {
         "none": [
           "Documents (D)"
         ]
-      }
+      },
+      "thumbnail": [
+        {
+          "id": "documents-d/assets-thumb/01KXZPYZYVTKDA25GTZC3AQMZ3-BHC006_KHAN_Liyakat20170616_D01.JPG",
+          "type": "Image"
+        }
+      ]
     }
   ]
 }
